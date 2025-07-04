@@ -1,0 +1,76 @@
+ .ri-facebook-fill:hover , .ri-twitter-fill:hover , .ri-instagram-line:hover ,.ri-linkedin-box-fill:hover{
+  color: #08D665 !important;
+}
+.about:hover , .services:hover ,.portfolio:hover , .pages:hover {
+  text-decoration: underline;text-underline-offset: 30px;text-decoration-color: #08D665;cursor: pointer;
+}
+ 
+ 
+ 
+ 
+ .topmenu{
+    height: 7vh;width: 100%;background-color: #343a40;color: rgb(78, 78, 78);font-size: larger;
+   }
+ #a{
+    margin-left: 8%;padding-top: 2%;position:relative;top: 25%;background-color: #08d657;
+    padding: 1%;cursor: pointer;color: azure;
+   }
+   .para1{
+         font-size: small;margin-left:0%;;position:relative;top: 20%;
+   }
+   .bc{
+    margin-left: 8%;top: 25%;position:relative;cursor: pointer;
+   }
+   .lefttopmenu{
+       color: white;
+   }
+   .ri-facebook-fill, .d{
+border:1px solid rgba(199, 191, 191, 0.151);font-size:smaller;box-sizing: border-box;display: inline-block;
+        height: 7vh;margin-left: 70.3%;position: absolute;top:0%;padding-top: 0.9%;width: 2.2%;padding-left: 0.5%;cursor: pointer;
+   }
+   .ri-twitter-fill,.e{
+    border:0.5px solid rgba(199, 191, 191, 0.151);font-size:smaller;box-sizing: border-box;display: inline-block;
+        height: 7vh;margin-left: 72.38%;position: absolute;top:0%;padding-top: 0.9%;width: 2%;padding-left:0.3%;cursor: pointer;
+   }
+   .ri-instagram-line ,.f{
+    border:0.5px solid rgba(199, 191, 191, 0.151);font-size:smaller;box-sizing: border-box;display: inline-block;
+        height: 7vh;margin-left: 74.3%;position: absolute;top:0%;padding-top: 0.9%;width: 2.2%;padding-left:0.6%;cursor: pointer;
+   }
+   .ri-linkedin-box-fill ,.g{
+border:0.5px solid rgba(199, 191, 191, 0.151);font-size:small;box-sizing: border-box;display: inline-block;
+        height: 7vh;margin-left: 76.5%;position: absolute;top:0%;padding-top: 1%;width: 2.2%;padding-left:0.6%;cursor: pointer;
+   }
+   .contactme{
+      font-size:smaller;box-sizing: border-box;display: inline-block;text-wrap:nowrap;color: white;
+        height: 7vh;margin-left: 78.6%;position: absolute;top:0%;padding-top: 0.9%;width:10%;padding-left:2%;background-color: #08D665;
+   }
+   #h{
+    margin-left: -100%;font-size: smaller;
+   }
+
+   .Header{
+height: 12vh;width: 100%;background-color: black;position: sticky;z-index: 1000;top: 0;
+   }
+  img[src="glintlogo.png"] {
+      margin-left: 8%;
+      margin-top: 1%;
+    }
+    .para2{
+font-size: small;word-spacing: 30px;margin-top: -3.8%;margin-left: 38%;font-weight: bolder;
+    }
+    .home{
+      text-decoration: underline;text-underline-offset: 30px;text-decoration-color: #08D665;color: rgb(201, 199, 199) ;cursor: pointer;
+    }
+    .about ,.portfolio ,.pages ,.services{
+      color: rgb(201, 199, 199) ;
+    }
+   .ri-search-line ,.i{
+    font-size: large;color: #08D665;margin-left: 2%;
+   }
+   .search{
+    font-size:larger;margin-left: -3%;font-weight: 200;color: rgb(201, 199, 199) ;cursor: pointer;
+   }
+  
+   .threelines{
+font-size:xx-large;margin-left: 23%;color: #08D665;
+   }

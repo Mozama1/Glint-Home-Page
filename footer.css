@@ -1,0 +1,71 @@
+.footer1:hover,.footer2:hover,.footer3:hover,.footer4:hover,.footer5:hover {
+  filter: none;
+}
+
+
+
+
+.bg9{
+  height: 140vh;width: 99.9%;background-color: black;background-image: url(bgfoot.png);
+}
+.newsletter{
+  color: #08D665;font-weight:bold;position: absolute;margin-left: 45%;z-index: 2;margin-top: 2%;
+}
+.downmaphead{
+  font-family: 'Oswald', sans-serif;font-size: xxx-large;
+  margin-left: 30%;z-index: 2;position: relative;font-weight: bold;
+}
+.para24{
+  font-family: 'Oswald', sans-serif;font-size: xxx-large;
+  margin-left: 3.5%;z-index: 2;position: relative;font-weight: bold;
+}
+.para25{
+  color: #08D665;font-family: 'Oswald', sans-serif;
+}
+.sidereadmore{
+  height: 0.3vh;width: 8%;background-color: #08D665;border-radius: 5px;position: absolute;margin-top: 5%;z-index: 2;
+margin-left: 55%;padding-top: 4.5%;font-size: small;font-weight: bold;padding-left: 5%;position: relative;z-index: 1;
+}
+.para26{
+  margin-top: -20%;position: absolute;margin-left: -25%;
+}
+.recwhitebox{
+  height: 7vh;width: 7vh;background-color: white;border-radius: 2px;margin-left: 30%;margin-top: -30%;position: relative
+}
+.ri-discuss-line ,.dd{
+color: #08D665;margin-left: 5%;position: absolute;font-size: large;margin-top: 2%;
+}
+.inputemail{
+  height: 9vh;width: 15%;background-color:rgba(53, 53, 53, 0.534);border-radius: 5px;position: absolute;margin-top: -4.5%;z-index: 2;
+margin-left: 35%;font-size: small;font-weight: bold;position: absolute;z-index: 1;border: 1px solid  #08D665 ;color:#08D665;padding-left: 2%;
+}
+.footer1{
+  height: 12vh;width: 17vh;position: absolute;z-index: 2;margin-left: 10%;margin-top: 10%;
+background-image: url(glintfooter1.png);background-size: 100% 100%;filter: brightness(0) invert(30%);
+}
+.footer2{
+height: 12vh;width: 17vh;position: absolute;z-index: 2;margin-left: 27%;margin-top: 10%;
+background-image: url(glintfooter2.png);background-size: 100% 100%;filter: brightness(0) invert(30%);
+}
+.footer3{
+  height: 12vh;width: 17vh;position: absolute;z-index: 2;margin-left: 45%;margin-top: 10%;
+background-image: url(glintfooter3.svg);background-size: 100% 100%;filter: brightness(0) invert(30%);
+}
+.footer4{
+  height: 12vh;width: 17vh;position: absolute;z-index: 2;margin-left: 64%;margin-top: 10%;
+background-image: url(glintfooter1.png);background-size: 100% 100%;filter: brightness(0) invert(30%);
+}
+.footer5{
+  height: 12vh;width: 17vh;position: absolute;z-index: 2;margin-left: 80%;margin-top: 10%;
+background-image: url(glintfooter2.png);background-size: 100% 100%;filter: brightness(0) invert(30%);
+}
+
+.footermenu{
+  word-spacing:20px;margin-top: -15%;margin-left: 30%;font-weight: bold;
+}
+.footercopyright{
+  margin-top: 3%;margin-left: 35%;font-size: smaller;color: gray;
+}
+.footerimg{
+  opacity: 0.8;margin-top: -60%;position:absolute;
+} 
